@@ -1,3 +1,7 @@
+This is my first Branch, 
+nothing else to write
+
+
 This is my first test 
 Done while watching coding train Github tutorial
 https://www.youtube.com/watch?v=BCQHnlnPusY&t=1s
@@ -6,3 +10,5 @@ https://www.youtube.com/watch?v=BCQHnlnPusY&t=1s
 
 
 3rd
+
+
